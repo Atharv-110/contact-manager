@@ -1,0 +1,7 @@
+.app {
+    @apply px-[5%]
+}
+
+.section {
+    @apply py-8
+}
